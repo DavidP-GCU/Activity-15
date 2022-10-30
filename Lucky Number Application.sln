@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lucky Number Application", "Lucky Number Application\Lucky Number Application.csproj", "{8725D20F-DC43-4F96-9618-21B234F2B47E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8725D20F-DC43-4F96-9618-21B234F2B47E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8725D20F-DC43-4F96-9618-21B234F2B47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8725D20F-DC43-4F96-9618-21B234F2B47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8725D20F-DC43-4F96-9618-21B234F2B47E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C19238B-BC91-4A74-8FE7-6013336EF0C5}
+	EndGlobalSection
+EndGlobal

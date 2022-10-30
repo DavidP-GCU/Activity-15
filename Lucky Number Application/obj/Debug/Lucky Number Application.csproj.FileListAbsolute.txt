@@ -1,0 +1,12 @@
+C:\Users\David\source\repos\Lucky Number Application\Lucky Number Application\obj\Debug\Lucky Number Application.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Lucky Number Application\Lucky Number Application\obj\Debug\Lucky Number Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\David\source\repos\Lucky Number Application\Lucky Number Application\obj\Debug\Lucky_Number_Application.Form1.resources
+C:\Users\David\source\repos\Lucky Number Application\Lucky Number Application\obj\Debug\Lucky_Number_Application.Properties.Resources.resources
+C:\Users\David\source\repos\Lucky Number Application\Lucky Number Application\obj\Debug\Lucky Number Application.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Lucky Number Application\Lucky Number Application\obj\Debug\Lucky Number Application.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Lucky Number Application\Lucky Number Application\bin\Debug\Lucky Number Application.exe.config
+C:\Users\David\source\repos\Lucky Number Application\Lucky Number Application\bin\Debug\Lucky Number Application.exe
+C:\Users\David\source\repos\Lucky Number Application\Lucky Number Application\bin\Debug\Lucky Number Application.pdb
+C:\Users\David\source\repos\Lucky Number Application\Lucky Number Application\obj\Debug\Lucky Number Application.exe
+C:\Users\David\source\repos\Lucky Number Application\Lucky Number Application\obj\Debug\Lucky Number Application.pdb
+C:\Users\David\source\repos\Lucky Number Application\Lucky Number Application\obj\Debug\Lucky_Number_Application.LuckyNumberForm.resources
